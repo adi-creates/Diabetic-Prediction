@@ -1,0 +1,6 @@
+1) Using the diabetes.csv create a Two class classification machine learning model.
+2) Apply Two-Class Boosted Decision Tree algorithm for training and validation purpose.
+3) The Label which needs to be predicted is Diabetic column
+4) create a python flask server app.py to render the user interface for client.
+5) Also create a web user interface for input value and the output values.
+6) Also create a read me file to use the application.
